@@ -1,0 +1,9 @@
+com/whatsdirectchat/MainApplication.java
+ com.inbound.whatsdirectchat.MainApplication
+ com.inbound.whatsdirectchat.MainApplication$1
+com/whatsdirectchat/MainActivity.java
+ com.inbound.whatsdirectchat.MainActivity
+com/inbound/whatsdirectchat/BuildConfig.java
+ com.inbound.whatsdirectchat.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

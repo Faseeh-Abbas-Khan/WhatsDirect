@@ -1,0 +1,4 @@
+#Tue Jan 11 14:09:56 PKT 2022
+base.0=D\:\\Final Codes\\whatsdirectchat\\android\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
